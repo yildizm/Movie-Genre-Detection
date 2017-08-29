@@ -17,7 +17,7 @@ In this project we attempt to classify movies into a set of genres by analysing 
 
 ### For more information about this project,
 Project Report link:
-[Project Report](../master/Group4_Final_Report.pdf)
+[Project Report](../master/Machine_Learning_Final_Report.pdf)
 
 Project Final Presentation link:
 [Project Presentation](../master/Group4_Final_Presentation.pptx)
